@@ -17,6 +17,7 @@ Iteration 1 - Home page
 	- Once Iteration 1 is published, it does not need content other than a "coming soon" headline and photo.  Maybe a reference to the Cubs winning the World Series.
 
 Iteration 2 - Blog
+---
 	- Should have a few different templates for a blog post, and several entries.  
 	- Entries should introduce me and my interests, and provide some background for motivation and experience.
 		- possible examples are a short bio, an explanation of why the school system sucks, a rundown of some music thoughts, and an intro to math, programming, or electronics.
@@ -26,6 +27,7 @@ Iteration 2 - Blog
 	- should implement tagging the entries for later searching/sorting and database development
 
 Iteration 3 - Projects
+---
 	- this should be a specialized blog section adapted specifically from projects.  
 	- should start with Code Brix, and go from the beginning, evaluating the previous designs, introducing new features, and going to the end
 	- should use two implementations for the command stacks ( shift registers, bit-bang, or a CAN based implementation)
@@ -38,6 +40,7 @@ Iteration 3 - Projects
 		- music / art
 
 Iteration 4 - Studies
+---
 	- Studies is a specialized and adapted form of the blog.  
 	- Covers all subjects I am interested in, so it can have its own menu page
 	- can link back and forth between relevant blog posts and projects
@@ -54,14 +57,19 @@ Iteration 4 - Studies
 		- myself
 
 Iteration 5 - work on studies, projects, and news, publishing as often as possible
+---
 
 Iteration 6 - Annihilating the current education system with a free (or at least almost free) self education program
+---
 	- develop a curriculum architecture
 	- develop a site architecture
 	- develop a plan of attack
 
 Iteration 7 - Build the site
+---
 
 Iteration 8 - Build the curriculum
+---
 
 Iteration 9 - Save the country, the world, and the future, while profiting handsomly
+---
